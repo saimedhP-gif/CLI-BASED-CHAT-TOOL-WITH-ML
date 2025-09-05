@@ -1,0 +1,5 @@
+{
+  "default_model": "gemini-1.5-flash",
+  "default_system_message": "You are a helpful assistant.",
+  "config_file": "config.json"
+}
